@@ -38,20 +38,20 @@ Add your tasks , plant a tree when you need to stay focused .if you commit to yo
 
  
 -Respect privacy-we do not collect a single data everything is stored in your local database.<br>
--Smart reply – Set Continuous auto reply or set a reply frequency.
--Group Support-it support group message to WhatsApp to reply any WhatsApp group.
--Simple Turn on/off-turn on/off with single touch switch.
--Contact matters- chose your desires contact to whom you want to reply.
--React to all- when your quite busy reply to all message.
--Custom message – you can set your custom message.
--Task management- Task organiser, time tracker.
--Focus to do- complete your study, work, homework.
--Statistics – get chart of all your time spent in a week.
--Work target- set target and track how much you have completed.
--Revision timer – student can set a revision time to have a dedicated slot for revision.
--Reduce phone addiction-a unique app to beat phone addictions.
--Stay focused- by planting a focus tree.
--Records – a list of records of time spent.
+-Smart reply – Set Continuous auto reply or set a reply frequency.<br>
+-Group Support-it support group message to WhatsApp to reply any WhatsApp group.<br>
+-Simple Turn on/off-turn on/off with single touch switch.<br>
+-Contact matters- chose your desires contact to whom you want to reply.<br>
+-React to all- when your quite busy reply to all message.<br>
+-Custom message – you can set your custom message.<br>
+-Task management- Task organiser, time tracker.<br>
+-Focus to do- complete your study, work, homework.<br>
+-Statistics – get chart of all your time spent in a week.<br>
+-Work target- set target and track how much you have completed.<br>
+-Revision timer – student can set a revision time to have a dedicated slot for revision.<br>
+-Reduce phone addiction-a unique app to beat phone addictions.<br>
+-Stay focused- by planting a focus tree.<br>
+-Records – a list of records of time spent.<br>
 
 
     
