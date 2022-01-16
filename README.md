@@ -37,8 +37,8 @@ Add your tasks , plant a tree when you need to stay focused .if you commit to yo
     
 
  
-<a-Respect privacy-we do not collect a single data everything is stored in your local database.></a>
-<a-Smart reply – Set Continuous auto reply or set a reply frequency.></a>
+<a ><Respect privacy-we do not collect a single data everything is stored in your local database./></a>
+<a><Smart reply – Set Continuous auto reply or set a reply frequency./></a>
 -Group Support-it support group message to WhatsApp to reply any WhatsApp group.
 -Simple Turn on/off-turn on/off with single touch switch.
 -Contact matters- chose your desires contact to whom you want to reply.
