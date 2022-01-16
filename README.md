@@ -9,11 +9,12 @@ P Droid is an productivity tool which helps you to stay productive by keeping a 
 
 
 ## Install
-
+<p>
 <a href="https://play.google.com/store/apps/details?id=com.techov8.p_droid&hl=en_IN&gl=US">
     <img alt="Get it on Google Play" height="80"
         src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0" />
 </a>
+</p>
 
 
 
