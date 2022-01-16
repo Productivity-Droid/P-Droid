@@ -4,6 +4,17 @@
 P Droid is an productivity tool which helps you to stay productive by keeping a track of your time of all your works and by keeping motivated to work by planting a focus plant , and it is having a auto reply bot for your WhatsApp ,Facebook messenger ,so that when your busy switch on the bot to reply to your incoming messages.
 
 
+## Pull Requests and new features are most welcome.
+
+
+
+## Install
+
+<a href="https://play.google.com/store/apps/details?id=com.techov8.p_droid&hl=en_IN&gl=US">
+    <img alt="Get it on Google Play" height="80"
+        src="docs/graphics/logos/google-badge.png" />
+</a>
+
 
 
 <p align="center">
