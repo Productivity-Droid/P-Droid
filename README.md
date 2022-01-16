@@ -35,23 +35,23 @@ Add your tasks , plant a tree when you need to stay focused .if you commit to yo
     
  ## Features
     
- <p>
-    <div style="display:flex;">
-<a>Respect privacy-we do not collect a single data everything is stored in your local database</a>
-<a>Smart reply – Set Continuous auto reply or set a reply frequency.</a>
-<a>Group Support-it support group message to WhatsApp to reply any WhatsApp group.</a>
-<a>Simple Turn on/off-turn on/off with single touch switch.</a>
-<a>Contact matters- chose your desires contact to whom you want to reply.</a>
-<a>React to all- when your quite busy reply to all message.</a>
-<a>Custom message – you can set your custom message.</a>
-<a>Task management- Task organiser, time tracker.</a>
-<a>Focus to do- complete your study, work, homework.</a>
-<a>Statistics – get chart of all your time spent in a week.</a>
-<a>Work target- set target and track how much you have completed.</a>
-<a>Revision timer – student can set a revision time to have a dedicated slot for revision.</a>
-<a>Reduce phone addiction-a unique app to beat phone addictions.</a>
-<a>Stay focused- by planting a focus tree.</a>
-<a>Records – a list of records of time spent.</a>
-        </div>
-</p>
+
+ <div style="display:flex;">
+-Respect privacy-we do not collect a single data everything is stored in your local database.
+-Smart reply – Set Continuous auto reply or set a reply frequency.
+-Group Support-it support group message to WhatsApp to reply any WhatsApp group.
+-Simple Turn on/off-turn on/off with single touch switch.
+-Contact matters- chose your desires contact to whom you want to reply.
+-React to all- when your quite busy reply to all message.
+-Custom message – you can set your custom message.
+-Task management- Task organiser, time tracker.
+-Focus to do- complete your study, work, homework.
+-Statistics – get chart of all your time spent in a week.
+-Work target- set target and track how much you have completed.
+-Revision timer – student can set a revision time to have a dedicated slot for revision.
+-Reduce phone addiction-a unique app to beat phone addictions.
+-Stay focused- by planting a focus tree.
+-Records – a list of records of time spent.
+</div>
+
     
