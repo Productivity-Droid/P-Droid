@@ -24,3 +24,10 @@ P Droid is an productivity tool which helps you to stay productive by keeping a 
   <a><img src="https://play-lh.googleusercontent.com/-emh_q0GPSnaDoqbkvFRL0XIaUeZXhZ9d5EqCqWtHa8ZTtSW_WKlPkyHioAwkNsYcA=w1440-h620-rw"/></a>
   <a><img src="https://play-lh.googleusercontent.com/rzut1uoi1SJwPjyAjtzR17H9RT1wIPCekdJvoYxSkPAiDpY5aeLxa8RMWZ8V3kmixg=w1440-h620-rw"/></a>
 </p>
+
+ ### How it works
+<p>
+   
+Add your tasks , plant a tree when you need to stay focused .if you commit to your work without distracting ,your tree grows ,if you cannot resist the temptation of using your phone, your trees dies and over a time you will built an entire forest from your focus and commitment and in between if you have any incoming messages bot will auto reply ,but please note P droid auto reply lies on WhatsApp and Facebook messengers notifications for auto reply to work. Most users usually have notifications enabled so should work without any additional configuration but otherwise please make sure notifications are enabled and WhatsApp fingerprint lock is disabled for this app to work.
+    </p>
+    
