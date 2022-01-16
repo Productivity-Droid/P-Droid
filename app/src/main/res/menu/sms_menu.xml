@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/addsms"
+        android:title="Add SMS"
+        android:icon="@drawable/forest"
+        android:iconTint="#FFFFFF"
+
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/moresms"
+        android:title="More"
+        android:icon="@drawable/forest"
+        android:iconTint="#FFFFFF"
+
+        app:showAsAction="never"/>
+
+
+
+
+
+
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615309398947",
+    "project_id": "p-droid",
+    "storage_bucket": "p-droid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615309398947:android:23079dafdcb8dd53d38016",
+        "android_client_info": {
+          "package_name": "com.techov8.p_droid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615309398947-h3q6uuja2l3dqvl922d74grieksf5ass.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_o4Pg4dM06qHUiEjnJ8WOqYDwOuTfSyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615309398947-h3q6uuja2l3dqvl922d74grieksf5ass.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

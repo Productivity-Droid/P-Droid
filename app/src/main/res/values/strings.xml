@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">P Droid</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+    <!-- testttt sms -->
+
+
+    <string name="contact_format" translatable="false">%1$s <![CDATA[<]]>%2$s<![CDATA[>]]></string>
+    <string name="form_hint_contact">To</string>
+    <string name="form_hint_message">Message</string>
+    <string name="form_button_add">Schedule</string>
+    <string name="form_button_cancel">Cancel</string>
+    <string name="form_button_delete">Delete</string>
+    <string name="form_validation_datetime">Please choose future date</string>
+    <string name="form_validation_contact">You must choose a contact</string>
+    <string name="form_validation_message">Message can not be empty</string>
+    <string name="form_recurring_mode_no">Send this message once</string>
+    <string name="form_recurring_mode_daily">Send this message daily</string>
+    <string name="form_recurring_mode_weekly">Send this message weekly</string>
+    <string name="form_recurring_mode_monthly">Send this message every month</string>
+    <string name="form_recurring_mode_yearly">Send this message every year</string>
+    <string name="list_button_add">Schedule a message</string>
+    <string name="list_sms_info_template">%1$s to %2$s at %3$s</string>
+    <string name="list_status_pending">Will send</string>
+    <string name="list_status_failed">Failed</string>
+    <string name="list_status_sent">Sent</string>
+    <string name="list_status_delivered">Delivered</string>
+    <string name="notification_title_success">Message sent</string>
+    <string name="notification_title_failure">Could not send message</string>
+    <string name="notification_title_will_send_in_an_hour">Sending a message in an hour</string>
+    <string name="notification_message_success">Message to %1$s has been successfully sent</string>
+    <string name="notification_message_failure">Could not send message to %1$s: %2$s</string>
+    <string name="notification_message_will_send_in_an_hour">It will be sent to %1$s</string>
+    <string name="error_generic">Internal error</string>
+    <string name="error_no_service">No service</string>
+    <string name="error_null_pdu">Internal error</string>
+    <string name="error_radio_off">Phone in airplane mode</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="pref_send_delivery_report">Delivery reports</string>
+    <string name="pref_send_delivery_report_summary">Some carriers charge for SMS delivery reports</string>
+    <string name="pref_reminders">Remind before sending SMS</string>
+    <string name="pref_reminders_summary_on">You will get a notification an hour before the SMS is sent</string>
+    <string name="pref_reminders_summary_off">Reminders are off now</string>
+    <string name="menu_settings">Settings</string>
+    <string name="successfully_scheduled">Message scheduled</string>
+    <string name="successfully_unscheduled">Message unscheduled</string>
+    <!-- TODO: Remove or change this placeholder text Auto replyyyy -->
+    <string name="url_privacy_policy">https:///privacy-policy.md</string>
+    <string name="adeekshith_twitter_handle" translatable="false">\@pdroid</string>
+    <string name="url_adeekshith_twitter" translatable="false">https://twitter.com/pdroid</string>
+
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="privacy_policy_label">Privacy Policy</string>
+    <string name="service_name">Incoming Message Notification Listener</string>
+    <string name="mainAutoReplyTextPlaceholder">(Custom Reply)</string>
+    <string name="auto_reply_default_message">Auto Reply\n⚠️ User not available</string>
+    <string name="mainAutoReplyLabel">Auto reply text</string>
+    <string name="mainAutoReplySwitchOffLabel">Auto reply OFF</string>
+    <string name="mainAutoReplySwitchOnLabel">Auto reply ON</string>
+    <string name="mainAutoReplyEditBtnTooltip">Click to edit auto reply text</string>
+    <string name="to_help_you_leave_whatsapp">Make your time productive</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="sure">I\'m Sure</string>
+    <string name="retry">Retry</string>
+    <string name="permission_dialog_title">Permission Required</string>
+    <string name="permission_dialog_msg">This app requires Notification Access permissions to work.</string>
+    <string name="permission_dialog_denied_title">Permission Denied</string>
+    <string name="permission_dialog_denied_msg">Without this permission app is unable to auto-reply to the notifications. Are you sure you want to deny the permission?</string>
+
+    <!-- Select apps to auto reply -->
+    <string name="enable_for_apps">Enable for apps</string>
+    <string name="enable_auto_reply_switch_msg">Enable Auto Reply Switch First.</string>
+    <string name="error_atleast_single_app_must_be_selected">Error: Select at-least a single app</string>
+
+    <!-- Group chats -->
+    <string name="groupReplySwitchLabel">Auto reply for Group chats</string>
+    <string name="group_reply_on_info_message">Enabled auto reply for group chats</string>
+    <string name="group_reply_off_info_message">Disabled auto reply for group chats</string>
+
+    <string name="time_picker_title">Reply frequency</string>
+    <string name="time_picker_sub_title_default">Respond to all messages without control</string>
+    <string name="time_picker_sub_title">Respond only once every %1$d day(s) for each person or group</string>
+    <string name="time_format_placeholder">00:00</string>
+    <string name="time_picker_edit_btn_tooltip">Click to edit time delay between replies</string>
+    <string name="app_version">v%1$s</string>
+
+    <!-- Custom message editor -->
+    <string name="save">Save</string>
+    <string name="tip_view_messages_from_fellow_users">🦩 <u>View templates from community and share yours too ➚</u></string>
+    <string name="append_watomatic_arribution_checkbox_label">Append P Droid arribution to help spread the word</string>
+    <string name="sent_using_Watomatic"></string>
+
+    <string name="share_app_text">I am using P Droid to make my time prodctive. Try it out: pdroid.app</string>
+    <string name="share">Share</string>
+    <string name="share_subject">P Droid: Auto Reply for WhatsApp</string>
+    <string name="watomatic_subreddit_label"><u>Let\'s discuss\nr/P Droid</u></string>
+    <string name="watomatic_subreddit_url" translatable="false">https://www.reddit.com/r/pdroid/</string>
+    <string name="watomatic_github_url" translatable="false">https://github.com/adeekshith/pdroid</string>
+    <string name="watomatic_wato_message_url" translatable="false">https://www.reddit.com/r/pdroid/comments/lrkn7j/fellow_watos_share_your_creative_wato_message/</string>
+    <string name="watomatic_whatsnew_label">What\'s New?</string>
+    <string name="watomatic_github_latest_release_url" translatable="false">https://github.com/adeekshith/pdroid/releases/latest</string>
+
+    <!-- Share debug logs -->
+    <string name="app_logs_file_name" translatable="false">PDroidLogs.txt</string>
+    <string name="share_email_body" translatable="false">Hi Team P Droid,\nPlease find the attachment of the app logs.</string>
+    <string name="share_email_subject" translatable="false">P Droid AppLogs</string>
+    <string name="share_email_id" translatable="false">pdroid476@gmail.com</string>
+    <string name="share_email_err_msg" translatable="false">Couldnot find any application to process this request</string>
+
+    <!-- keys and app internal strings -->
+    <string name="key_pref_app_language" translatable="false">pref_app_language</string>
+    <string name="pref_show_notification_replied_msg" translatable="false">pref_show_notification_replied_msg</string>
+    <string name="pref_auto_start_permission" translatable="false">pref_auto_start_permission</string>
+    <string name="pref_is_append_watomatic_attribution" translatable="false">pref_is_append_PDroid_attribution</string>
+    <string name="pref_show_foreground_service_notification" translatable="false">pref_show_foreground_service_notification</string>
+
+    <!-- app settings -->
+    <string name="show_notification_label">Show notification for replied messages</string>
+    <string name="preference_category_general_label">General settings</string>
+    <string name="preference_category_notifications_label">Notifications</string>
+    <string name="preference_category_troubleshooting_label">Troubleshooting</string>
+    <string name="enable_auto_start_label">Enable Auto Start</string>
+    <string name="add_attribution_label">Add Attribution</string>
+    <string name="enabled_apps_title">Enabled Apps</string>
+    <string name="always_on_notification">Always-On notification</string>
+    <string name="display_persistent_notification_summary">Display a persistent notification to ensure P Droid is not killed by the system</string>
+    <string name="enable_auto_start_summary">Some devices might need you to manually enable Auto start for P Droid from device settings</string>
+
+    <!-- Local language names (non translatable) -->
+    <string name="lang_en" translatable="false">English (en)</string>
+    <string name="lang_ar_rSA" translatable="false">اَلْعَرَبِيَّةُ (ar-SA)</string>
+    <string name="lang_ca_rES" translatable="false">Català (ca-ES)</string>
+    <string name="lang_de_rDE" translatable="false">Deutsch (de-DE)</string>
+    <string name="lang_es_rES" translatable="false">Español (es-ES)</string>
+    <string name="lang_es_rMX" translatable="false">Español (México) (es-MX)</string>
+    <string name="lang_eu_rES" translatable="false">Euskara (eu-ES)</string> <!-- Basque -->
+    <string name="lang_fi_rFI" translatable="false">Suomi (fi_FI)</string>
+    <string name="lang_fr_rFR" translatable="false">Français (fr-FR)</string>
+    <string name="lang_in_rID" translatable="false">Indonesian (in-ID)</string>
+    <string name="lang_it_rIT" translatable="false">Italiano (it-IT)</string>
+    <string name="lang_mk_rMK" translatable="false">македонски јазик (mk-MK)</string>
+    <string name="lang_nl_rNL" translatable="false">Nederlands (nl-NL)</string>
+    <string name="lang_pt_rBR" translatable="false">Portuguese (pt-BR)</string>
+    <string name="lang_pl_rPL" translatable="false">Polski (pl-PL)</string>
+    <string name="lang_ru_rRU" translatable="false">Pусский (ru-RU)</string>
+    <string name="lang_ta_rIN" translatable="false">தமிழ் (ta-IN)</string>
+    <string name="lang_tr_rTR" translatable="false">Türkçe (tr-TR)</string>
+
+    <!-- Language codes (non translatable) -->
+    <string name="lang_code_en" translatable="false">en</string>
+    <string name="lang_code_ar_rSA" translatable="false">ar-SA</string>
+    <string name="lang_code_ca_rES" translatable="false">ca-ES</string>
+    <string name="lang_code_de_rDE" translatable="false">de-DE</string>
+    <string name="lang_code_es_rES" translatable="false">es-ES</string>
+    <string name="lang_code_es_rMX" translatable="false">es-MX</string>
+    <string name="lang_code_eu_rES" translatable="false">eu-ES</string>
+    <string name="lang_code_fi_rFI" translatable="false">fi-FI</string>
+    <string name="lang_code_fr_rFR" translatable="false">fr-FR</string>
+    <string name="lang_code_in_rID" translatable="false">in-ID</string>
+    <string name="lang_code_it_rIT" translatable="false">it-IT</string>
+    <string name="lang_code_mk_rMK" translatable="false">mk-MK</string>
+    <string name="lang_code_nl_rNL" translatable="false">nl-NL</string>
+    <string name="lang_code_pt_rBR" translatable="false">pt-BR</string>
+    <string name="lang_code_pl_rPL" translatable="false">pl-PL</string>
+    <string name="lang_code_ru_rRU" translatable="false">ru-RU</string>
+    <string name="lang_code_ta_rIN" translatable="false">ta-IN</string>
+    <string name="lang_code_tr_rTR" translatable="false">tr-TR</string>
+
+    <!-- App Language selection -->
+    <string name="app_language">App Language</string>
+
+    <!-- App Rating Dialog -->
+    <string name="app_rating_dialog_title">What do you think?</string>
+    <string name="app_rating_dialog_msg">We are interested in what you think of the app. Tap the stars above to rate it.</string>
+    <string name="app_rating_dialog_rate_button_title">Rate it!</string>
+    <string name="app_rating_dialog_rate_later_title">May be later</string>
+    <string name="app_rating_goto_store_dialog_title">We\'re happy!</string>
+    <string name="celebrate_emoji" translatable="false">😃🙌</string>
+    <string name="app_rating_goto_store_dialog_msg">Please share this rating of our app on the Google Play Store by tapping \"Continue\"\!</string>
+    <string name="app_rating_pitch">This app is free, no ads, no tracking, open source and is made by contributors like you and me.
+        Your feedback is our only encouragement.</string>
+    <string name="app_rating_goto_store_dialog_button1_title">Not Interested</string>
+    <string name="app_rating_goto_store_dialog_button2_title">Continue</string>
+    <string name="app_rating_feedback_dialog_title">Contact us</string>
+    <string name="app_rating_feedback_dialog_msg">Let us know how we can improve.</string>
+    <string name="app_rating_feedback_dialog_mail_button_title">Email Us</string>
+    <string name="app_rating_feedback_dialog_telegram_button_title">Telegram</string>
+
+    <!--Autostart Permission Dialog-->
+    <string name="auto_start_permission_dialog_title">AutoStart Permission</string>
+    <string name="running_in_the_background">Running in the background</string>
+    <string name="auto_start_permission_dialog_message">Enable \"Auto Start\" permission in device settings to allow P Droid to start on device restart.</string>
+    <string name="device_based_settings_message">Note: Settings may vary or may not be available based on your device</string>
+    <string name="setting_not_available_for_device">This setting is not available or may not be needed for your device.</string>
+    <string name="enable_auto_start_setting">Proceed</string>
+    <string name="decline_auto_start_setting">Cancel</string>
+    <string name="app_not_installed_text">Not installed</string>
+    <string name="advanced_settings">Advanced settings</string>
+    <string name="key_pref_advanced_settings" translatable="false">pref_advanced_settings</string>
+    <string name="contact_based_reply">Contact based replies</string>
+    <string name="pref_reply_contacts" translatable="false">pref_reply_contacts</string>
+    <string name="contact_reply_type">Reply to</string>
+    <string name="blacklist">Everyone except selected contacts</string>
+    <string name="whitelist">Nobody except selected contacts</string>
+    <string name="pref_code_blacklist" translatable="false">pref_blacklist</string>
+    <string name="pref_code_whitelist" translatable="false">pref_whitelist</string>
+    <string name="pref_reply_contacts_type" translatable="false">pref_reply_contacts_type</string>
+    <string name="enable_contact_based_reply">Enable contact based replies</string>
+    <string name="select_contacts">Select contacts</string>
+    <string name="key_pref_select_contacts" translatable="false">pref_select_contacts</string>
+    <string name="contact_selector">Contact selector</string>
+    <string name="select_all">Select all</string>
+    <string name="select_none">Select none</string>
+    <string name="contact_permission_dialog_msg">Contact read access is required in order to filter names and enable this feature. Do you want to continue?</string>
+    <string name="contact_permission_dialog_proceed">Proceed</string>
+    <string name="contact_permission_dialog_cancel">Cancel</string>
+    <string name="undo">Undo</string>
+    <string name="all_contacts_selected">All contacts selected</string>
+    <string name="all_contacts_unselected">All contacts unselected</string>
+</resources>
