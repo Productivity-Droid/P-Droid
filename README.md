@@ -33,9 +33,10 @@ Add your tasks , plant a tree when you need to stay focused .if you commit to yo
     
     
     
-    ###Features
+ ## Features
     
  <p>
+    <div style="display:flex;">
 <a>Respect privacy-we do not collect a single data everything is stored in your local database</a>
 <a>Smart reply – Set Continuous auto reply or set a reply frequency.</a>
 <a>Group Support-it support group message to WhatsApp to reply any WhatsApp group.</a>
@@ -51,5 +52,6 @@ Add your tasks , plant a tree when you need to stay focused .if you commit to yo
 <a>Reduce phone addiction-a unique app to beat phone addictions.</a>
 <a>Stay focused- by planting a focus tree.</a>
 <a>Records – a list of records of time spent.</a>
+        </div>
 </p>
     
